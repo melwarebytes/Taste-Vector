@@ -1,1 +1,16 @@
 user_id,name,preferred_cuisine,max_price,spice_tolerance,max_distance
+U01,Aarav,Chinese,500,1.6,15
+U02,Meera,Japanese,1000,2.7,15
+U03,Rahul,Thai,500,1.9,5
+U04,Priya,Mediterranean,200,4.0,3
+U05,Karan,Chinese,300,4.2,10
+U06,Sneha,Indian,700,2.5,10
+U07,Vikram,Japanese,1000,4.4,3
+U08,Ananya,Indian,1000,4.0,8
+U09,Rohan,Indian,500,2.7,10
+U10,Divya,Italian,500,4.9,5
+U11,Arjun,Indian,500,4.4,15
+U12,Pooja,Mexican,300,2.5,5
+U13,Nikhil,Italian,1000,2.3,3
+U14,Shruti,Indian,500,4.5,8
+U15,Aditya,Mexican,200,2.0,15
