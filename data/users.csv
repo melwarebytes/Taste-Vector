@@ -1,0 +1,11 @@
+user_id,name,preferred_cuisine,max_price,spice_tolerance,max_distance
+1,Alice,Indian,3,5,3.0
+2,Bob,American,4,2,5.0
+3,Carol,Japanese,5,2,4.0
+4,Dave,Mexican,3,4,3.0
+5,Eve,Vegan,4,3,2.0
+6,Frank,Chinese,3,4,4.0
+7,Grace,Italian,4,2,3.0
+8,Heidi,Korean,4,5,5.0
+9,Ivan,Mediterranean,3,3,3.0
+10,Judy,Thai,3,4,4.0
